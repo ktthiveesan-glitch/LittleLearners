@@ -1,0 +1,1680 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ outline" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "%@ දළ සටහන"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "%@ வெளிக்கோடு"
+          }
+        }
+      }
+    },
+    "%lld of %lld" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "%2$lld න් %1$lld"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "%2$lld இல் %1$lld"
+          }
+        }
+      }
+    },
+    "%lld stars" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld star"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld stars"
+                }
+              }
+            }
+          }
+        },
+        "si" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "තරු %lldක්"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "තරු %lldක්"
+                }
+              }
+            }
+          }
+        },
+        "ta" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld நட்சத்திரம்"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld நட்சத்திரங்கள்"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Add child" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "දරුවෙකු එක් කරන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "குழந்தையைச் சேர்"
+          }
+        }
+      }
+    },
+    "All Numbers" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "සියලු ඉලක්කම්"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "அனைத்து எண்கள்"
+          }
+        }
+      }
+    },
+    "All of this child's stars, badges and tracing history will be deleted. This cannot be undone." : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "මෙම දරුවාගේ සියලු තරු, පදක්කම් සහ ඇඳීම් ඉතිහාසය මකා දැමෙනු ඇත. මෙය අහෝසි කළ නොහැක."
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "இந்தக் குழந்தையின் அனைத்து நட்சத்திரங்கள், பதக்கங்கள் மற்றும் வரைதல் வரலாறு நீக்கப்படும். இதைச் செயல்தவிர்க்க முடியாது."
+          }
+        }
+      }
+    },
+    "Answer the question to continue" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ඉදිරියට යාමට ප්‍රශ්නයට පිළිතුරු දෙන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "தொடர கேள்விக்குப் பதிலளிக்கவும்"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "අවලංගු කරන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ரத்து செய்"
+          }
+        }
+      }
+    },
+    "Category" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "වර්ගය"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "வகை"
+          }
+        }
+      }
+    },
+    "Check" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "පරීක්ෂා කරන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "சரிபார்"
+          }
+        }
+      }
+    },
+    "Children" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "දරුවන්"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "குழந்தைகள்"
+          }
+        }
+      }
+    },
+    "Choose a language" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "භාෂාවක් තෝරන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "மொழியைத் தேர்ந்தெடுக்கவும்"
+          }
+        }
+      }
+    },
+    "Circle" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "රවුම"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "வட்டம்"
+          }
+        }
+      }
+    },
+    "Clear" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "මකන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "அழி"
+          }
+        }
+      }
+    },
+    "Completed" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "සම්පූර්ණ කළ"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "முடிந்தது"
+          }
+        }
+      }
+    },
+    "Correct" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "නිවැරදියි"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "சரி"
+          }
+        }
+      }
+    },
+    "Day" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "දිනය"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "நாள்"
+          }
+        }
+      }
+    },
+    "Delete" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "මකන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "நீக்கு"
+          }
+        }
+      }
+    },
+    "Delete %@?" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "%@ මකන්නද?"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "%@ ஐ நீக்கவா?"
+          }
+        }
+      }
+    },
+    "Delete child" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "දරුවා මකන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "குழந்தையை நீக்கு"
+          }
+        }
+      }
+    },
+    "Double tap to close" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "වැසීමට දෙවරක් තට්ටු කරන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "மூட இருமுறை தட்டவும்"
+          }
+        }
+      }
+    },
+    "Double tap to make it bigger" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "විශාල කිරීමට දෙවරක් තට්ටු කරන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "பெரிதாக்க இருமுறை தட்டவும்"
+          }
+        }
+      }
+    },
+    "Double tap to put it on its outline" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "එය එහි දළ සටහන මත තැබීමට දෙවරක් තට්ටු කරන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "அதன் வெளிக்கோட்டில் வைக்க இருமுறை தட்டவும்"
+          }
+        }
+      }
+    },
+    "Drag each shape to its outline" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "සෑම හැඩයක්ම එහි දළ සටහන වෙත අදින්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "ஒவ்வொரு வடிவத்தையும் அதன் வெளிக்கோட்டிற்கு இழுக்கவும்"
+          }
+        }
+      }
+    },
+    "Draw over the dotted lines" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "තිත් ඉරි මත අඳින්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "புள்ளிக் கோடுகளின் மேல் வரையவும்"
+          }
+        }
+      }
+    },
+    "Earn 10 stars" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "තරු 10ක් දිනා ගන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10 நட்சத்திரங்களைப் பெறுங்கள்"
+          }
+        }
+      }
+    },
+    "Earn 50 stars" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "තරු 50ක් දිනා ගන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "50 நட்சத்திரங்களைப் பெறுங்கள்"
+          }
+        }
+      }
+    },
+    "Earn your first star" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ඔබේ පළමු තරුව දිනා ගන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "உங்கள் முதல் நட்சத்திரத்தைப் பெறுங்கள்"
+          }
+        }
+      }
+    },
+    "Earned" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "දිනා ගත්තා"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "பெற்றது"
+          }
+        }
+      }
+    },
+    "Edit child" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "දරුවා සංස්කරණය කරන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "குழந்தையைத் திருத்து"
+          }
+        }
+      }
+    },
+    "Eight" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "අට"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "எட்டு"
+          }
+        }
+      }
+    },
+    "English Letters" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ඉංග්‍රීසි අකුරු"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஆங்கில எழுத்துகள்"
+          }
+        }
+      }
+    },
+    "Fifty Stars" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "තරු පනහ"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஐம்பது நட்சத்திரங்கள்"
+          }
+        }
+      }
+    },
+    "Finish the shapes game" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "හැඩ ක්‍රීඩාව අවසන් කරන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "வடிவ விளையாட்டை முடிக்கவும்"
+          }
+        }
+      }
+    },
+    "First Star" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "පළමු තරුව"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "முதல் நட்சத்திரம்"
+          }
+        }
+      }
+    },
+    "Five" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "පහ"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஐந்து"
+          }
+        }
+      }
+    },
+    "Four" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "හතර"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "நான்கு"
+          }
+        }
+      }
+    },
+    "Heart" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "හදවත"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "இதயம்"
+          }
+        }
+      }
+    },
+    "Hi, %@!" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ආයුබෝවන්, %@!"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "வணக்கம், %@!"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "භාෂාව"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "மொழி"
+          }
+        }
+      }
+    },
+    "Let's go!" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "යමු!"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "தொடங்குவோம்!"
+          }
+        }
+      }
+    },
+    "Letters" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "අකුරු"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "எழுத்துகள்"
+          }
+        }
+      }
+    },
+    "Listen" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "අහන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "கேளுங்கள்"
+          }
+        }
+      }
+    },
+    "Little Learners" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Little Learners"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Little Learners"
+          }
+        }
+      }
+    },
+    "Locked" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "අගුළු දමා ඇත"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "பூட்டப்பட்டது"
+          }
+        }
+      }
+    },
+    "Name" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "නම"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "பெயர்"
+          }
+        }
+      }
+    },
+    "Next" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ඊළඟ"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "அடுத்து"
+          }
+        }
+      }
+    },
+    "Nine" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "නවය"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஒன்பது"
+          }
+        }
+      }
+    },
+    "No tracing yet" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "තවම ඇඳීම් නැත"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "இன்னும் வரைதல் இல்லை"
+          }
+        }
+      }
+    },
+    "Not yet" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "තවම නැත"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "இன்னும் இல்லை"
+          }
+        }
+      }
+    },
+    "Numbers" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ඉලක්කම්"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "எண்கள்"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "හරි"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "சரி"
+          }
+        }
+      }
+    },
+    "One" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "එක"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஒன்று"
+          }
+        }
+      }
+    },
+    "Parent area" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "දෙමාපිය අංශය"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "பெற்றோர் பகுதி"
+          }
+        }
+      }
+    },
+    "Parents" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "දෙමාපියන්"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "பெற்றோர்"
+          }
+        }
+      }
+    },
+    "Parents only" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "දෙමාපියන්ට පමණි"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "பெற்றோருக்கு மட்டும்"
+          }
+        }
+      }
+    },
+    "Pick your picture" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ඔබේ පින්තූරය තෝරන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "உங்கள் படத்தைத் தேர்ந்தெடுக்கவும்"
+          }
+        }
+      }
+    },
+    "Play again" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "නැවත සෙල්ලම් කරන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "மீண்டும் விளையாடு"
+          }
+        }
+      }
+    },
+    "Previous" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "පෙර"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "முந்தையது"
+          }
+        }
+      }
+    },
+    "Progress" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ප්‍රගතිය"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "முன்னேற்றம்"
+          }
+        }
+      }
+    },
+    "Recent tracing" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "මෑත ඇඳීම්"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "சமீபத்திய வரைதல்"
+          }
+        }
+      }
+    },
+    "Rectangle" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "සෘජුකෝණාස්‍රය"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "செவ்வகம்"
+          }
+        }
+      }
+    },
+    "Reset" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "යළි සකසන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "மீட்டமை"
+          }
+        }
+      }
+    },
+    "Reset all progress?" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "සියලු ප්‍රගතිය යළි සකසන්නද?"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "அனைத்து முன்னேற்றத்தையும் மீட்டமைக்கவா?"
+          }
+        }
+      }
+    },
+    "Reset progress" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ප්‍රගතිය යළි සකසන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "முன்னேற்றத்தை மீட்டமை"
+          }
+        }
+      }
+    },
+    "Rewards" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ත්‍යාග"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "பரிசுகள்"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "සුරකින්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "சேமி"
+          }
+        }
+      }
+    },
+    "Script" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "අක්ෂර මාලාව"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "எழுத்து முறை"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "සැකසුම්"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "அமைப்புகள்"
+          }
+        }
+      }
+    },
+    "Seven" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "හත"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஏழு"
+          }
+        }
+      }
+    },
+    "Shape Champion" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "හැඩ ශූරයා"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "வடிவ சாம்பியன்"
+          }
+        }
+      }
+    },
+    "Shapes" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "හැඩ"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "வடிவங்கள்"
+          }
+        }
+      }
+    },
+    "Sinhala Letters" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "සිංහල අකුරු"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "சிங்கள எழுத்துகள்"
+          }
+        }
+      }
+    },
+    "Six" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "හය"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஆறு"
+          }
+        }
+      }
+    },
+    "Sound" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ශබ්දය"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஒலி"
+          }
+        }
+      }
+    },
+    "Square" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "සමචතුරස්‍රය"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "சதுரம்"
+          }
+        }
+      }
+    },
+    "Star" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "තරුව"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "நட்சத்திரம்"
+          }
+        }
+      }
+    },
+    "Stars" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "තරු"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "நட்சத்திரங்கள்"
+          }
+        }
+      }
+    },
+    "Stars in the last 7 days" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "පසුගිය දින 7 තුළ තරු"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "கடந்த 7 நாட்களில் நட்சத்திரங்கள்"
+          }
+        }
+      }
+    },
+    "Stars, badges and tracing history will be deleted. This cannot be undone." : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "තරු, පදක්කම් සහ ඇඳීම් ඉතිහාසය මකා දැමෙනු ඇත. මෙය අහෝසි කළ නොහැක."
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "நட்சத்திரங்கள், பதக்கங்கள் மற்றும் வரைதல் வரலாறு நீக்கப்படும். இதைச் செயல்தவிர்க்க முடியாது."
+          }
+        }
+      }
+    },
+    "Switch child" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "දරුවා මාරු කරන්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "குழந்தையை மாற்று"
+          }
+        }
+      }
+    },
+    "Tamil Letters" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "දෙමළ අකුරු"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "தமிழ் எழுத்துகள்"
+          }
+        }
+      }
+    },
+    "Ten" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "දහය"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "பத்து"
+          }
+        }
+      }
+    },
+    "Ten Stars" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "තරු දහය"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "பத்து நட்சத்திரங்கள்"
+          }
+        }
+      }
+    },
+    "Three" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "තුන"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "மூன்று"
+          }
+        }
+      }
+    },
+    "Trace %@" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "%@ අඳින්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "%@ ஐ வரையவும்"
+          }
+        }
+      }
+    },
+    "Trace every English letter" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "සෑම ඉංග්‍රීසි අකුරක්ම අඳින්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஒவ்வொரு ஆங்கில எழுத்தையும் வரையவும்"
+          }
+        }
+      }
+    },
+    "Trace every Sinhala letter" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "සෑම සිංහල අකුරක්ම අඳින්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஒவ்வொரு சிங்கள எழுத்தையும் வரையவும்"
+          }
+        }
+      }
+    },
+    "Trace every Tamil letter" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "සෑම දෙමළ අකුරක්ම අඳින්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஒவ்வொரு தமிழ் எழுத்தையும் வரையவும்"
+          }
+        }
+      }
+    },
+    "Trace every number" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "සෑම ඉලක්කමක්ම අඳින්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ஒவ்வொரு எண்ணையும் வரையவும்"
+          }
+        }
+      }
+    },
+    "Trace it" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "එය අඳින්න"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "இதை வரையவும்"
+          }
+        }
+      }
+    },
+    "Triangle" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ත්‍රිකෝණය"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "முக்கோணம்"
+          }
+        }
+      }
+    },
+    "Try again!" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "නැවත උත්සාහ කරන්න!"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "மீண்டும் முயற்சி செய்!"
+          }
+        }
+      }
+    },
+    "Two" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "දෙක"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "இரண்டு"
+          }
+        }
+      }
+    },
+    "Welcome to Little Learners" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Little Learners වෙත සාදරයෙන් පිළිගනිමු"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Little Learners-க்கு வரவேற்கிறோம்"
+          }
+        }
+      }
+    },
+    "Well done!" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ඉතා හොඳයි!"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "மிக நன்று!"
+          }
+        }
+      }
+    },
+    "What is %lld + %lld?" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld + %lld කීයද?"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld + %lld எவ்வளவு?"
+          }
+        }
+      }
+    },
+    "What is your name?" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ඔබේ නම කුමක්ද?"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "உங்கள் பெயர் என்ன?"
+          }
+        }
+      }
+    },
+    "Who is learning today?" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "අද ඉගෙන ගන්නේ කවුද?"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "இன்று யார் கற்கிறார்கள்?"
+          }
+        }
+      }
+    },
+    "You did it!" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "ඔබ එය කළා!"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "நீங்கள் செய்துவிட்டீர்கள்!"
+          }
+        }
+      }
+    },
+    "You won this badge!" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ඔබ මෙම පදක්කම දිනා ගත්තා!"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "இந்தப் பதக்கத்தை வென்றீர்கள்!"
+          }
+        }
+      }
+    },
+    "Your answer" : {
+      "localizations" : {
+        "si" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ඔබේ පිළිතුර"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "உங்கள் பதில்"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
